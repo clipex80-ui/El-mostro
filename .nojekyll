@@ -1,8 +1,1 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.clipex80_ui.twa",
-        "sha256_cert_fingerprints": ["90:4B:A9:82:7F:07:BA:08:8E:60:BC:B0:7F:B5:34:F2:A9:71:E4:95:87:73:51:44:D0:ED:E7:F8:20:A9:DC:BA"]
-      }
-    }]
+
